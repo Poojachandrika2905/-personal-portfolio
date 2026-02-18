@@ -1,6 +1,5 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-import ParticlesBackground from "../components/ParticlesBackground";
 
 function Hero() {
   return (
@@ -53,13 +52,13 @@ function Hero() {
             <button>Download Resume</button>
           </a>
 
-          <a href="https://github.com/Poojachandrika2905" target="_blank">
+          <a href="https://github.com/Poojachandrika2905" target="_blank" rel="noreferrer">
             <button style={{ background: "#0f172a" }}>
               GitHub
             </button>
           </a>
 
-          <a href="https://www.linkedin.com/in/pooja-chandrika-padabakkala-a37520288/" target="_blank">
+          <a href="https://www.linkedin.com/in/pooja-chandrika-padabakkala-a37520288/" target="_blank" rel="noreferrer">
             <button style={{ background: "#0ea5e9" }}>
               LinkedIn
             </button>
